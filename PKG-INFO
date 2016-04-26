@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: uiauto-framework
+Version: 1.2.9
+Summary: ui自动化框架
+Home-page: git@gitlab.corp.qunar.com:des-qa/uiauto_framework.git
+Author: litang.wang
+Author-email: litang.wang@qunar.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: selenium
